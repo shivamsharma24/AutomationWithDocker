@@ -1,5 +1,7 @@
 # AutomationWithDocker
 
-https://github.com/SeleniumHQ/docker-selenium
+1- https://github.com/SeleniumHQ/docker-selenium
 
-# create an account in DockerHub - Can pull and push the Image from/in Docker-hub.
+# create an account in DockerHub 
+
+-> Can pull and push the Image from/in Docker-hub.
